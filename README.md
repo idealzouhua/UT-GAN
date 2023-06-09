@@ -14,3 +14,6 @@ There are some files:
 Please cite the following paper if the code helps your research.
 
  J. Yang, D. Ruan, J. Huang, X. Kang and Y. Shi, "An Embedding Cost Learning Framework Using GAN," in IEEE Transactions on Information Forensics and Security, vol. 15, pp. 839-851, 2020.
+ 
+# Notes
+This project just used to  understanding！
